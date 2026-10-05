@@ -1,0 +1,698 @@
+{
+  "image_count": 35,
+  "assets": [
+    {
+      "filename": "01_green_alien/01_green_alien__base.png",
+      "character": "01_green_alien",
+      "color": "green",
+      "species": "alien",
+      "mood": "base",
+      "tags": [
+        "green",
+        "alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "base",
+        "original_pose"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "bc91f319b92b5560fe0e1163ba5012c2855ee7636aa4f09c6358e2a908ca5090"
+    },
+    {
+      "filename": "01_green_alien/01_green_alien__happy_idle.png",
+      "character": "01_green_alien",
+      "color": "green",
+      "species": "alien",
+      "mood": "happy_idle",
+      "tags": [
+        "green",
+        "alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "happy",
+        "idle"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "a208575eb11d76648275b0d071f344fd98a94d5b57294720bc2d7d5150d24f5f"
+    },
+    {
+      "filename": "01_green_alien/01_green_alien__thinking_working.png",
+      "character": "01_green_alien",
+      "color": "green",
+      "species": "alien",
+      "mood": "thinking_working",
+      "tags": [
+        "green",
+        "alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "thinking",
+        "working"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "0eabe531a7a8f398634875dba3e54b0bdc1e9943b5afdc4dce511654ffd14c7d"
+    },
+    {
+      "filename": "01_green_alien/01_green_alien__confused.png",
+      "character": "01_green_alien",
+      "color": "green",
+      "species": "alien",
+      "mood": "confused",
+      "tags": [
+        "green",
+        "alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "confused"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "da964bbfa27e6ac41aa10c077dd61644e2df733c039d7649ccf9a68cce29ad4f"
+    },
+    {
+      "filename": "01_green_alien/01_green_alien__sad_neglected.png",
+      "character": "01_green_alien",
+      "color": "green",
+      "species": "alien",
+      "mood": "sad_neglected",
+      "tags": [
+        "green",
+        "alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "sad",
+        "neglected"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ce1fb95951df8dcfc0a45b15405635afc23f7e12d6c89da3607dc21859d148ba"
+    },
+    {
+      "filename": "02_purple_cyclops/02_purple_cyclops__base.png",
+      "character": "02_purple_cyclops",
+      "color": "purple",
+      "species": "cyclops",
+      "mood": "base",
+      "tags": [
+        "purple",
+        "cyclops",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "base",
+        "original_pose"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "bc56962782176f059f69bdc9b413172dc458a22680547379e2f1320cc4dd530c"
+    },
+    {
+      "filename": "02_purple_cyclops/02_purple_cyclops__happy_idle.png",
+      "character": "02_purple_cyclops",
+      "color": "purple",
+      "species": "cyclops",
+      "mood": "happy_idle",
+      "tags": [
+        "purple",
+        "cyclops",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "happy",
+        "idle"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8e3a390078c7b0e055316357d8730aee8340756b615fdb6c0ecc2248c86a27fb"
+    },
+    {
+      "filename": "02_purple_cyclops/02_purple_cyclops__thinking_working.png",
+      "character": "02_purple_cyclops",
+      "color": "purple",
+      "species": "cyclops",
+      "mood": "thinking_working",
+      "tags": [
+        "purple",
+        "cyclops",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "thinking",
+        "working"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6a51e43441e6bf942fda65b5906c4334a6cf7704554f0fb039872235d629941c"
+    },
+    {
+      "filename": "02_purple_cyclops/02_purple_cyclops__confused.png",
+      "character": "02_purple_cyclops",
+      "color": "purple",
+      "species": "cyclops",
+      "mood": "confused",
+      "tags": [
+        "purple",
+        "cyclops",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "confused"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "c857e4ddf24926977bed4218af53ab92f482411a5835e057d91edd5dd7a9a7d6"
+    },
+    {
+      "filename": "02_purple_cyclops/02_purple_cyclops__sad_neglected.png",
+      "character": "02_purple_cyclops",
+      "color": "purple",
+      "species": "cyclops",
+      "mood": "sad_neglected",
+      "tags": [
+        "purple",
+        "cyclops",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "sad",
+        "neglected"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "0aa6c4f4ca324ae95f9ebb23bdf08847a185d26061727ba1a08e31b00da63e70"
+    },
+    {
+      "filename": "03_blue_eyestalk_alien/03_blue_eyestalk_alien__base.png",
+      "character": "03_blue_eyestalk_alien",
+      "color": "blue",
+      "species": "eyestalk_alien",
+      "mood": "base",
+      "tags": [
+        "blue",
+        "eyestalk_alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "base",
+        "original_pose"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b6746cdbcadcbd9c3c93c0773b76b4b7cdcc9e87aa0c5d6b7333646317ac2de5"
+    },
+    {
+      "filename": "03_blue_eyestalk_alien/03_blue_eyestalk_alien__happy_idle.png",
+      "character": "03_blue_eyestalk_alien",
+      "color": "blue",
+      "species": "eyestalk_alien",
+      "mood": "happy_idle",
+      "tags": [
+        "blue",
+        "eyestalk_alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "happy",
+        "idle"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "0f6441eb1ca62cd51cd29ebd72fb10b5effd108d5706be6160aafeaa836cbe35"
+    },
+    {
+      "filename": "03_blue_eyestalk_alien/03_blue_eyestalk_alien__thinking_working.png",
+      "character": "03_blue_eyestalk_alien",
+      "color": "blue",
+      "species": "eyestalk_alien",
+      "mood": "thinking_working",
+      "tags": [
+        "blue",
+        "eyestalk_alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "thinking",
+        "working"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5a8eb0a8c059b615f000c0849d5f8d43823e9e1cf39b66a26e418880e305ce08"
+    },
+    {
+      "filename": "03_blue_eyestalk_alien/03_blue_eyestalk_alien__confused.png",
+      "character": "03_blue_eyestalk_alien",
+      "color": "blue",
+      "species": "eyestalk_alien",
+      "mood": "confused",
+      "tags": [
+        "blue",
+        "eyestalk_alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "confused"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "00090b3aad7f89e379686a0f11e646b6bc6a128a0e42bab62c620d95da33a175"
+    },
+    {
+      "filename": "03_blue_eyestalk_alien/03_blue_eyestalk_alien__sad_neglected.png",
+      "character": "03_blue_eyestalk_alien",
+      "color": "blue",
+      "species": "eyestalk_alien",
+      "mood": "sad_neglected",
+      "tags": [
+        "blue",
+        "eyestalk_alien",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "sad",
+        "neglected"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6fa3dcfea034b60e9a1456441ee8d64af3db71f580e7025363f0b9e91768477c"
+    },
+    {
+      "filename": "04_yellow_fox/04_yellow_fox__base.png",
+      "character": "04_yellow_fox",
+      "color": "yellow",
+      "species": "fox",
+      "mood": "base",
+      "tags": [
+        "yellow",
+        "fox",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "base",
+        "original_pose"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b5af84373c20ff78338b0f8457dbabb74e12a9a17ba2a74ff3f9d6f887f20804"
+    },
+    {
+      "filename": "04_yellow_fox/04_yellow_fox__happy_idle.png",
+      "character": "04_yellow_fox",
+      "color": "yellow",
+      "species": "fox",
+      "mood": "happy_idle",
+      "tags": [
+        "yellow",
+        "fox",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "happy",
+        "idle"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2b350e4146f3d747ad2d090d1696fbec3eb439c98c7a6443061a0b19d70de151"
+    },
+    {
+      "filename": "04_yellow_fox/04_yellow_fox__thinking_working.png",
+      "character": "04_yellow_fox",
+      "color": "yellow",
+      "species": "fox",
+      "mood": "thinking_working",
+      "tags": [
+        "yellow",
+        "fox",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "thinking",
+        "working"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8eeddafd16ce6c598f85c3c5c8819e34fc59c07470ee953b06c2c56aa9bd26ad"
+    },
+    {
+      "filename": "04_yellow_fox/04_yellow_fox__confused.png",
+      "character": "04_yellow_fox",
+      "color": "yellow",
+      "species": "fox",
+      "mood": "confused",
+      "tags": [
+        "yellow",
+        "fox",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "confused"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "c26e514298a9e5e9907316093bc6dbe73ac1ed665cffe7005f4b7bf0c897074d"
+    },
+    {
+      "filename": "04_yellow_fox/04_yellow_fox__sad_neglected.png",
+      "character": "04_yellow_fox",
+      "color": "yellow",
+      "species": "fox",
+      "mood": "sad_neglected",
+      "tags": [
+        "yellow",
+        "fox",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "sad",
+        "neglected"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2fa1a5305bd3511bca89a830f1d5e463d2d9dde7ef94e255bd35f55fc6ca6c1f"
+    },
+    {
+      "filename": "05_red_reptile/05_red_reptile__base.png",
+      "character": "05_red_reptile",
+      "color": "red",
+      "species": "reptile",
+      "mood": "base",
+      "tags": [
+        "red",
+        "reptile",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "base",
+        "original_pose"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "28c7da6409d57827daaeddbfd5aaf9cb0a9f8825fcd04d5648c5a4e132800a86"
+    },
+    {
+      "filename": "05_red_reptile/05_red_reptile__happy_idle.png",
+      "character": "05_red_reptile",
+      "color": "red",
+      "species": "reptile",
+      "mood": "happy_idle",
+      "tags": [
+        "red",
+        "reptile",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "happy",
+        "idle"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "99d9c012f706a859d13740fa23f95214b63894a4f7af157e96b87c79250ab892"
+    },
+    {
+      "filename": "05_red_reptile/05_red_reptile__thinking_working.png",
+      "character": "05_red_reptile",
+      "color": "red",
+      "species": "reptile",
+      "mood": "thinking_working",
+      "tags": [
+        "red",
+        "reptile",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "thinking",
+        "working"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "a965b2b43b0870a26f7a0cd4e63432f5c9f2ff167a7283dbb2cb47239a754602"
+    },
+    {
+      "filename": "05_red_reptile/05_red_reptile__confused.png",
+      "character": "05_red_reptile",
+      "color": "red",
+      "species": "reptile",
+      "mood": "confused",
+      "tags": [
+        "red",
+        "reptile",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "confused"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "23e501e04609f50499969775e622685b0b81ee93d954fb008b465d3ae41bebc0"
+    },
+    {
+      "filename": "05_red_reptile/05_red_reptile__sad_neglected.png",
+      "character": "05_red_reptile",
+      "color": "red",
+      "species": "reptile",
+      "mood": "sad_neglected",
+      "tags": [
+        "red",
+        "reptile",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "sad",
+        "neglected"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b0c03459358cff4cee20d0936a0bc29d0e663a7e8c88ed4634d26310bb5052c3"
+    },
+    {
+      "filename": "06_teal_octopus/06_teal_octopus__base.png",
+      "character": "06_teal_octopus",
+      "color": "teal",
+      "species": "octopus",
+      "mood": "base",
+      "tags": [
+        "teal",
+        "octopus",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "base",
+        "original_pose"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "779f241a19d4faceb1b31577097fe905679eb4b24d345060f4b138c73694e578"
+    },
+    {
+      "filename": "06_teal_octopus/06_teal_octopus__happy_idle.png",
+      "character": "06_teal_octopus",
+      "color": "teal",
+      "species": "octopus",
+      "mood": "happy_idle",
+      "tags": [
+        "teal",
+        "octopus",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "happy",
+        "idle"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "532c6922245d395dc52975b69fa1842ee5a82cfefa913f6895e6c29132e8d3f1"
+    },
+    {
+      "filename": "06_teal_octopus/06_teal_octopus__thinking_working.png",
+      "character": "06_teal_octopus",
+      "color": "teal",
+      "species": "octopus",
+      "mood": "thinking_working",
+      "tags": [
+        "teal",
+        "octopus",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "thinking",
+        "working"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "f41a834350c756439a3413fcc6b0235213dc438a9bb6cb9d0cbe1599dcaa83e8"
+    },
+    {
+      "filename": "06_teal_octopus/06_teal_octopus__confused.png",
+      "character": "06_teal_octopus",
+      "color": "teal",
+      "species": "octopus",
+      "mood": "confused",
+      "tags": [
+        "teal",
+        "octopus",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "confused"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "e73c57047aab2dfc8aaecce0a1e218d609f805565789a28ab325684a45834499"
+    },
+    {
+      "filename": "06_teal_octopus/06_teal_octopus__sad_neglected.png",
+      "character": "06_teal_octopus",
+      "color": "teal",
+      "species": "octopus",
+      "mood": "sad_neglected",
+      "tags": [
+        "teal",
+        "octopus",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "sad",
+        "neglected"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b4ee14449646f551b5e20e23e9833f2b4d3e4693ca92af4c6b56e712b234bc9a"
+    },
+    {
+      "filename": "07_pink_axolotl/07_pink_axolotl__base.png",
+      "character": "07_pink_axolotl",
+      "color": "pink",
+      "species": "axolotl",
+      "mood": "base",
+      "tags": [
+        "pink",
+        "axolotl",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "base",
+        "original_pose"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "69af48d598548e4534a5476ef3752b6c007aeb9cdbf3ab63d31502d572c12c98"
+    },
+    {
+      "filename": "07_pink_axolotl/07_pink_axolotl__happy_idle.png",
+      "character": "07_pink_axolotl",
+      "color": "pink",
+      "species": "axolotl",
+      "mood": "happy_idle",
+      "tags": [
+        "pink",
+        "axolotl",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "happy",
+        "idle"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d395e6e855706a6b8a24701154d1bd5cebdb8b812ed78a26e68b46d38acbbeda"
+    },
+    {
+      "filename": "07_pink_axolotl/07_pink_axolotl__thinking_working.png",
+      "character": "07_pink_axolotl",
+      "color": "pink",
+      "species": "axolotl",
+      "mood": "thinking_working",
+      "tags": [
+        "pink",
+        "axolotl",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "thinking",
+        "working"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "dfc7b01211cdcfc0421f797111ecf07d5a341b194466236e5f67d34ca0b42fcf"
+    },
+    {
+      "filename": "07_pink_axolotl/07_pink_axolotl__confused.png",
+      "character": "07_pink_axolotl",
+      "color": "pink",
+      "species": "axolotl",
+      "mood": "confused",
+      "tags": [
+        "pink",
+        "axolotl",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "confused"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8923401a349e7ab161b78319dbdf2677f56f17ce72998d46520a607d73a7d81a"
+    },
+    {
+      "filename": "07_pink_axolotl/07_pink_axolotl__sad_neglected.png",
+      "character": "07_pink_axolotl",
+      "color": "pink",
+      "species": "axolotl",
+      "mood": "sad_neglected",
+      "tags": [
+        "pink",
+        "axolotl",
+        "astronaut",
+        "mascot",
+        "3d",
+        "space",
+        "sad",
+        "neglected"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "sha256": "89a48c9f784678981338e588244b73b997d016513ff966fcb2b015e9018ea74d"
+    }
+  ]
+}
