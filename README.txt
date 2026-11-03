@@ -1,6 +1,6 @@
 Astronaut mascot collection
 
-35 PNG images: 7 base portraits + 28 mood variants.
+40 PNG images: 8 base portraits + 32 mood variants (08_brown_owl moods = its base pose for now).
 Organized by character. Filenames: <character>__<mood>.png
 Moods: happy_idle, thinking_working, confused, sad_neglected.
 Tags, actual pixel dimensions and SHA-256 checksums: manifest.json and manifest.csv.
